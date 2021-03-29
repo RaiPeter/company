@@ -1,0 +1,37 @@
+.developmentsteps{
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    overflow: hidden;
+}
+.developmentsteps h1{
+    width: fit-content;
+    margin: auto;
+    padding: 30px;
+}
+.developmentsteps-cards{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+
+}
+.developmentsteps-cards .developmentsteps-card{
+width: 30%;
+overflow: hidden;
+/* border: 1px solid red; */
+}
+.developmentsteps-card .developmentsteps-card-img{
+    height: 450px;
+    width: 100%;
+    border: 1px solid #8B8B8B;
+padding: 50px;
+border-radius: 50%;
+
+}
+.developmentsteps-card-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.developmentsteps-card-content h1{
+font-size: 1.7em;
+}

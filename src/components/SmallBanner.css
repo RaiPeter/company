@@ -1,0 +1,21 @@
+.smallbanner{
+    background-color: rgba(103, 204, 218, 0.66);
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    align-items: center;
+}
+
+.smallbanner h1{
+   color:  #2E7594;
+   font-size: 3em;
+   width: 40%;
+}
+.smallbanner a{
+    padding: 10px 60px;
+    font-size: 2em;
+    text-decoration: none;
+    color: white;
+    background-color: #00C2FF;
+    border-radius: 40px;
+}
